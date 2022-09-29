@@ -1,0 +1,15 @@
+C:\Alura Conteudo\PoliFuncionario\bin\Debug\net6.0\PoliFuncionario.exe
+C:\Alura Conteudo\PoliFuncionario\bin\Debug\net6.0\PoliFuncionario.deps.json
+C:\Alura Conteudo\PoliFuncionario\bin\Debug\net6.0\PoliFuncionario.runtimeconfig.json
+C:\Alura Conteudo\PoliFuncionario\bin\Debug\net6.0\PoliFuncionario.dll
+C:\Alura Conteudo\PoliFuncionario\bin\Debug\net6.0\ref\PoliFuncionario.dll
+C:\Alura Conteudo\PoliFuncionario\bin\Debug\net6.0\PoliFuncionario.pdb
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\PoliFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\PoliFuncionario.AssemblyInfoInputs.cache
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\PoliFuncionario.AssemblyInfo.cs
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\PoliFuncionario.csproj.CoreCompileInputs.cache
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\PoliFuncionario.dll
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\ref\PoliFuncionario.dll
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\PoliFuncionario.pdb
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\PoliFuncionario.genruntimeconfig.cache
+C:\Alura Conteudo\PoliFuncionario\obj\Debug\net6.0\PoliFuncionario.csproj.AssemblyReference.cache
